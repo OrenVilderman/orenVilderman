@@ -29,5 +29,5 @@ Custom Backend Architectures | Scalable Microservices | AI Engineering
 ---
 
 ## 🔗 Connect With Me
-* [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/oren-vilderman/))
+* [LinkedIn](https://www.linkedin.com/in/oren-vilderman)
 * [Portfolio / Live Demo](https://avatar-relay.netlify.app)
